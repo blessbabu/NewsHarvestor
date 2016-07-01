@@ -1,0 +1,11 @@
+com/factweavers/ElasticSearch.class
+com/factweavers/InputSources/InputSourceFactory.class
+com/factweavers/NewsCrawler.class
+com/factweavers/InputSources/LinkInputSource.class
+com/factweavers/Article.class
+com/factweavers/MyOutputFormatter.class
+com/factweavers/InputSources/InputSource.class
+com/factweavers/ContentExtractor.class
+com/factweavers/DroneTagCreation.class
+com/factweavers/Crawlerprocessor.class
+com/factweavers/Application.class

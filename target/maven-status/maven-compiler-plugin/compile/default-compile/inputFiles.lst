@@ -1,0 +1,11 @@
+/home/weavers/workspace/NewsHarvestor/src/main/java/com/factweavers/Application.java
+/home/weavers/workspace/NewsHarvestor/src/main/java/com/factweavers/ElasticSearch.java
+/home/weavers/workspace/NewsHarvestor/src/main/java/com/factweavers/NewsCrawler.java
+/home/weavers/workspace/NewsHarvestor/src/main/java/com/factweavers/DroneTagCreation.java
+/home/weavers/workspace/NewsHarvestor/src/main/java/com/factweavers/InputSources/InputSourceFactory.java
+/home/weavers/workspace/NewsHarvestor/src/main/java/com/factweavers/InputSources/LinkInputSource.java
+/home/weavers/workspace/NewsHarvestor/src/main/java/com/factweavers/Crawlerprocessor.java
+/home/weavers/workspace/NewsHarvestor/src/main/java/com/factweavers/ContentExtractor.java
+/home/weavers/workspace/NewsHarvestor/src/main/java/com/factweavers/Article.java
+/home/weavers/workspace/NewsHarvestor/src/main/java/com/factweavers/MyOutputFormatter.java
+/home/weavers/workspace/NewsHarvestor/src/main/java/com/factweavers/InputSources/InputSource.java
